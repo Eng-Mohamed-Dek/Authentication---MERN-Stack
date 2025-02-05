@@ -3,7 +3,7 @@ const Header = () => {
       <div className='ml-48 flex flex-col md:flex-row flex-wrap px-6 md:px-4 rounded-lg'>
         {/* <!--- text left-side -->  */}
         <div className='md:w-1/2 flex flex-col items-start justify-center gap-8 py-10 m-auto md:py-[10vw] md:mb-[-30px]'>
-          <p className='text-3xl font-bold lg:text-5xl leading-relaxed md:leading-tight'> Hirkaab Academy </p>
+          <p className='text-3xl font-bold lg:text-5xl leading-relaxed md:leading-tight'> AuthenX App </p>
           <div className='flex flex-col md:flex-row items-center gap-3 text-sm font-light'>
             <p>Hadda baro course aad doneysid, xili walba iyo goorkasto adigoo <br />  helaya caawimaad joogto ah.</p>
           </div>
